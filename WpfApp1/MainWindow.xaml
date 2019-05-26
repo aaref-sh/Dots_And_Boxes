@@ -1,0 +1,291 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        ResizeMode="NoResize"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid x:Name="LayoutRoot">
+        <Grid Name="Labels" Margin="-28,-23,0,0">
+            <Label x:Name="l11" Content="2" HorizontalAlignment="Left" Margin="72,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l12" Content="2" HorizontalAlignment="Left" Margin="152,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l13" Content="2" HorizontalAlignment="Left" Margin="232,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l14" Content="2" HorizontalAlignment="Left" Margin="312,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l15" Content="2" HorizontalAlignment="Left" Margin="392,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l16" Content="2" HorizontalAlignment="Left" Margin="472,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l17" Content="2" HorizontalAlignment="Left" Margin="552,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l18" Content="2" HorizontalAlignment="Left" Margin="632,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l19" Content="2" HorizontalAlignment="Left" Margin="712,67,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+                                         
+            <Label x:Name="l21" Content="2" HorizontalAlignment="Left" Margin="72,147,0,0" VerticalAlignment="Top" FontSize="48"  Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l22" Content="2" HorizontalAlignment="Left" Margin="152,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l23" Content="2" HorizontalAlignment="Left" Margin="232,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l24" Content="2" HorizontalAlignment="Left" Margin="312,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l25" Content="2" HorizontalAlignment="Left" Margin="392,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l26" Content="2" HorizontalAlignment="Left" Margin="472,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l27" Content="2" HorizontalAlignment="Left" Margin="552,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l28" Content="2" HorizontalAlignment="Left" Margin="632,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l29" Content="2" HorizontalAlignment="Left" Margin="712,147,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+                                         
+            <Label x:Name="l31" Content="2" HorizontalAlignment="Left" Margin="72,227,0,0" VerticalAlignment="Top" FontSize="48"  Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l32" Content="2" HorizontalAlignment="Left" Margin="152,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l33" Content="2" HorizontalAlignment="Left" Margin="232,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l34" Content="2" HorizontalAlignment="Left" Margin="312,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l35" Content="2" HorizontalAlignment="Left" Margin="392,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l36" Content="2" HorizontalAlignment="Left" Margin="472,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l37" Content="2" HorizontalAlignment="Left" Margin="552,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l38" Content="2" HorizontalAlignment="Left" Margin="632,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l39" Content="2" HorizontalAlignment="Left" Margin="712,227,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+                                         
+            <Label x:Name="l41" Content="2" HorizontalAlignment="Left" Margin="72,307,0,0" VerticalAlignment="Top" FontSize="48"  Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l42" Content="2" HorizontalAlignment="Left" Margin="152,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l43" Content="2" HorizontalAlignment="Left" Margin="232,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l44" Content="2" HorizontalAlignment="Left" Margin="312,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l45" Content="2" HorizontalAlignment="Left" Margin="392,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l46" Content="2" HorizontalAlignment="Left" Margin="472,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l47" Content="2" HorizontalAlignment="Left" Margin="552,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l48" Content="2" HorizontalAlignment="Left" Margin="632,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l49" Content="2" HorizontalAlignment="Left" Margin="712,307,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+                                         
+            <Label x:Name="l51" Content="2" HorizontalAlignment="Left" Margin="72,387,0,0" VerticalAlignment="Top" FontSize="48"  Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l52" Content="2" HorizontalAlignment="Left" Margin="152,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l53" Content="2" HorizontalAlignment="Left" Margin="232,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l54" Content="2" HorizontalAlignment="Left" Margin="312,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l55" Content="2" HorizontalAlignment="Left" Margin="392,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l56" Content="2" HorizontalAlignment="Left" Margin="472,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l57" Content="2" HorizontalAlignment="Left" Margin="552,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l58" Content="2" HorizontalAlignment="Left" Margin="632,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l59" Content="2" HorizontalAlignment="Left" Margin="712,387,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+                                         
+            <Label x:Name="l61" Content="2" HorizontalAlignment="Left" Margin="72,467,0,0" VerticalAlignment="Top" FontSize="48"  Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l62" Content="2" HorizontalAlignment="Left" Margin="152,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l63" Content="2" HorizontalAlignment="Left" Margin="232,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l64" Content="2" HorizontalAlignment="Left" Margin="312,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l65" Content="2" HorizontalAlignment="Left" Margin="392,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l66" Content="2" HorizontalAlignment="Left" Margin="472,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l67" Content="2" HorizontalAlignment="Left" Margin="552,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l68" Content="2" HorizontalAlignment="Left" Margin="632,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+            <Label x:Name="l69" Content="2" HorizontalAlignment="Left" Margin="712,467,0,0" VerticalAlignment="Top" FontSize="48" Height="72" Width="72" Background="#FF5B0505" Foreground="White" HorizontalContentAlignment="Center" Visibility="Hidden" />
+        </Grid>
+        <!--#region -->
+        <Grid Name="Lines">
+            <Grid>
+                <Line Name="lin011" Stroke="Gray" StrokeThickness="8" X1="40"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin021" Stroke="Gray" StrokeThickness="8" X1="40"  X2="40" Y1="40" Y2="120" MouseDown="Superficie_MouseDown"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin012" Stroke="Gray" StrokeThickness="8" X1="200"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin022" Stroke="Gray" StrokeThickness="8" X1="120"  X2="120" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin013" Stroke="Gray" StrokeThickness="8" X1="200"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin023" Stroke="Gray" StrokeThickness="8" X1="200"  X2="200" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin014" Stroke="Gray" StrokeThickness="8" X1="360"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin024" Stroke="Gray" StrokeThickness="8" X1="280"  X2="280" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin015" Stroke="Gray" StrokeThickness="8" X1="360"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin025" Stroke="Gray" StrokeThickness="8" X1="360"  X2="360" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin016" Stroke="Gray" StrokeThickness="8" X1="520"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin026" Stroke="Gray" StrokeThickness="8" X1="440"  X2="440" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin017" Stroke="Gray" StrokeThickness="8" X1="520"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin027" Stroke="Gray" StrokeThickness="8" X1="520"  X2="520" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin018" Stroke="Gray" StrokeThickness="8" X1="680"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin028" Stroke="Gray" StrokeThickness="8" X1="600"  X2="600" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin019" Stroke="Gray" StrokeThickness="8" X1="680"  X2="760" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin029" Stroke="Gray" StrokeThickness="8" X1="680"  X2="680" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin020" Stroke="Gray" StrokeThickness="8" X1="760"  X2="760" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+            </Grid>
+            <Grid Margin="0,80,0,0">
+                <Line Name="lin031" Stroke="Gray" StrokeThickness="8" X1="40"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin041" Stroke="Gray" StrokeThickness="8" X1="40"  X2="40" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin032" Stroke="Gray" StrokeThickness="8" X1="200"  X2="120" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin042" Stroke="Gray" StrokeThickness="8" X1="120"  X2="120" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin033" Stroke="Gray" StrokeThickness="8" X1="200"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin043" Stroke="Gray" StrokeThickness="8" X1="200"  X2="200" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin034" Stroke="Gray" StrokeThickness="8" X1="360"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin044" Stroke="Gray" StrokeThickness="8" X1="280"  X2="280" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin035" Stroke="Gray" StrokeThickness="8" X1="360"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin045" Stroke="Gray" StrokeThickness="8" X1="360"  X2="360" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin036" Stroke="Gray" StrokeThickness="8" X1="520"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin046" Stroke="Gray" StrokeThickness="8" X1="440"  X2="440" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin037" Stroke="Gray" StrokeThickness="8" X1="520"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin047" Stroke="Gray" StrokeThickness="8" X1="520"  X2="520" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin038" Stroke="Gray" StrokeThickness="8" X1="680"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin048" Stroke="Gray" StrokeThickness="8" X1="600"  X2="600" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin039" Stroke="Gray" StrokeThickness="8" X1="680"  X2="760" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin049" Stroke="Gray" StrokeThickness="8" X1="680"  X2="680" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin040" Stroke="Gray" StrokeThickness="8" X1="760"  X2="760" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" Grid.ColumnSpan="2" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+            </Grid>
+            <Grid Margin="0,160,0,0">
+                <Line Name="lin051" Stroke="Gray" StrokeThickness="8" X1="40"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin061" Stroke="Gray" StrokeThickness="8" X1="40"  X2="40" Y1="40" Y2="120" MouseDown="Superficie_MouseDown"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin052" Stroke="Gray" StrokeThickness="8" X1="200"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin062" Stroke="Gray" StrokeThickness="8" X1="120"  X2="120" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin053" Stroke="Gray" StrokeThickness="8" X1="200"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin063" Stroke="Gray" StrokeThickness="8" X1="200"  X2="200" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin054" Stroke="Gray" StrokeThickness="8" X1="360"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin064" Stroke="Gray" StrokeThickness="8" X1="280"  X2="280" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin055" Stroke="Gray" StrokeThickness="8" X1="360"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin065" Stroke="Gray" StrokeThickness="8" X1="360"  X2="360" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin056" Stroke="Gray" StrokeThickness="8" X1="520"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin066" Stroke="Gray" StrokeThickness="8" X1="440"  X2="440" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin057" Stroke="Gray" StrokeThickness="8" X1="520"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin067" Stroke="Gray" StrokeThickness="8" X1="520"  X2="520" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin058" Stroke="Gray" StrokeThickness="8" X1="680"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin068" Stroke="Gray" StrokeThickness="8" X1="600"  X2="600" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin059" Stroke="Gray" StrokeThickness="8" X1="680"  X2="760" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin069" Stroke="Gray" StrokeThickness="8" X1="680"  X2="680" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin060" Stroke="Gray" StrokeThickness="8" X1="760"  X2="760" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+            </Grid>
+            <Grid Margin="0,240,0,0">
+                <Line Name="lin071" Stroke="Gray" StrokeThickness="8" X1="40"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin081" Stroke="Gray" StrokeThickness="8" X1="40"  X2="40" Y1="40" Y2="120" MouseDown="Superficie_MouseDown"   MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin072" Stroke="Gray" StrokeThickness="8" X1="200"  X2="120" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin082" Stroke="Gray" StrokeThickness="8" X1="120"  X2="120" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin073" Stroke="Gray" StrokeThickness="8" X1="200"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin083" Stroke="Gray" StrokeThickness="8" X1="200"  X2="200" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin074" Stroke="Gray" StrokeThickness="8" X1="360"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin084" Stroke="Gray" StrokeThickness="8" X1="280"  X2="280" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin075" Stroke="Gray" StrokeThickness="8" X1="360"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin085" Stroke="Gray" StrokeThickness="8" X1="360"  X2="360" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin076" Stroke="Gray" StrokeThickness="8" X1="520"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin086" Stroke="Gray" StrokeThickness="8" X1="440"  X2="440" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin077" Stroke="Gray" StrokeThickness="8" X1="520"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin087" Stroke="Gray" StrokeThickness="8" X1="520"  X2="520" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin078" Stroke="Gray" StrokeThickness="8" X1="680"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin088" Stroke="Gray" StrokeThickness="8" X1="600"  X2="600" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin079" Stroke="Gray" StrokeThickness="8" X1="680"  X2="760" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin089" Stroke="Gray" StrokeThickness="8" X1="680"  X2="680" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin080" Stroke="Gray" StrokeThickness="8" X1="760"  X2="760" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+            </Grid>
+            <Grid Margin="0,320,0,0">
+                <Line Name="lin091" Stroke="Gray" StrokeThickness="8" X1="40"  X2="120" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin101" Stroke="Gray" StrokeThickness="8" X1="40"  X2="40" Y1="40" Y2="120"  MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin092" Stroke="Gray" StrokeThickness="8" X1="200"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin102" Stroke="Gray" StrokeThickness="8" X1="120"  X2="120" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin093" Stroke="Gray" StrokeThickness="8" X1="200"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin103" Stroke="Gray" StrokeThickness="8" X1="200"  X2="200" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin094" Stroke="Gray" StrokeThickness="8" X1="360"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin104" Stroke="Gray" StrokeThickness="8" X1="280"  X2="280" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin095" Stroke="Gray" StrokeThickness="8" X1="360"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin105" Stroke="Gray" StrokeThickness="8" X1="360"  X2="360" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin096" Stroke="Gray" StrokeThickness="8" X1="520"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin106" Stroke="Gray" StrokeThickness="8" X1="440"  X2="440" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin097" Stroke="Gray" StrokeThickness="8" X1="520"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin107" Stroke="Gray" StrokeThickness="8" X1="520"  X2="520" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin098" Stroke="Gray" StrokeThickness="8" X1="680"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin108" Stroke="Gray" StrokeThickness="8" X1="600"  X2="600" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin099" Stroke="Gray" StrokeThickness="8" X1="680"  X2="760" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin109" Stroke="Gray" StrokeThickness="8" X1="680"  X2="680" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin100" Stroke="Gray" StrokeThickness="8" X1="760"  X2="760" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+            </Grid>
+            <Grid Margin="0,400,0,0">
+                <Line Name="lin111" Stroke="Gray" StrokeThickness="8" X1="40"  X2="120" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin121" Stroke="Gray" StrokeThickness="8" X1="40"  X2="40" Y1="40" Y2="120"  MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin112" Stroke="Gray" StrokeThickness="8" X1="200"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown"  MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"/>
+                <Line Name="lin122" Stroke="Gray" StrokeThickness="8" X1="120"  X2="120" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin113" Stroke="Gray" StrokeThickness="8" X1="200"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin123" Stroke="Gray" StrokeThickness="8" X1="200"  X2="200" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin114" Stroke="Gray" StrokeThickness="8" X1="360"  X2="280" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin124" Stroke="Gray" StrokeThickness="8" X1="280"  X2="280" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin115" Stroke="Gray" StrokeThickness="8" X1="360"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin125" Stroke="Gray" StrokeThickness="8" X1="360"  X2="360" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin116" Stroke="Gray" StrokeThickness="8" X1="520"  X2="440" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin126" Stroke="Gray" StrokeThickness="8" X1="440"  X2="440" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin117" Stroke="Gray" StrokeThickness="8" X1="520"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin127" Stroke="Gray" StrokeThickness="8" X1="520"  X2="520" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin118" Stroke="Gray" StrokeThickness="8" X1="680"  X2="600" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin128" Stroke="Gray" StrokeThickness="8" X1="600"  X2="600" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin119" Stroke="Gray" StrokeThickness="8" X1="680"  X2="760" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin129" Stroke="Gray" StrokeThickness="8" X1="680"  X2="680" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+                <Line Name="lin120" Stroke="Gray" StrokeThickness="8" X1="760"  X2="760" Y1="40" Y2="120" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave"  />
+            </Grid>
+            <Grid Margin="0,480,0,0">
+                <Line Name="lin131" Stroke="Gray" StrokeThickness="8" X1="40"  X2="120" Y1="40" Y2="40"  MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin132" Stroke="Gray" StrokeThickness="8" X1="200"  X2="120" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin133" Stroke="Gray" StrokeThickness="8" X1="200"  X2="280" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin134" Stroke="Gray" StrokeThickness="8" X1="360"  X2="280" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin135" Stroke="Gray" StrokeThickness="8" X1="360"  X2="440" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin136" Stroke="Gray" StrokeThickness="8" X1="520"  X2="440" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin137" Stroke="Gray" StrokeThickness="8" X1="520"  X2="600" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin138" Stroke="Gray" StrokeThickness="8" X1="680"  X2="600" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+                <Line Name="lin139" Stroke="Gray" StrokeThickness="8" X1="680"  X2="760" Y1="40" Y2="40" MouseDown="Superficie_MouseDown" MouseEnter="Superficie_MouseEnter" MouseLeave="Superficie_MouseLeave" />
+            </Grid>
+        </Grid>
+        <!--#endregion-->
+        <Grid Name="Points">
+            <Ellipse x:Name="btn10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="33,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn11" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="113,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn12" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="193,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn13" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="273,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn14" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="353,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn15" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="433,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn16" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="513,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn17" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="593,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="673,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn10_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="33,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn11_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="113,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn12_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="193,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn13_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="273,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn14_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="353,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn15_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="433,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn16_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="513,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn17_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="593,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="673,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn10_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="33,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn11_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="113,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn12_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="193,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn13_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="273,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn14_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="353,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn15_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="433,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn16_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="513,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn17_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="593,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="673,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn10_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="33,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn11_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="113,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn12_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="193,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn13_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="273,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn14_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="353,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn15_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="433,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn16_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="513,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn17_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="593,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="673,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn10_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="33,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn11_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="113,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn12_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="193,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn13_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="273,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn14_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="353,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn15_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="433,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn16_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="513,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn17_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="593,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="673,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn10_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="33,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn11_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="113,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn12_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="193,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn13_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="273,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn14_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="353,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn15_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="433,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn16_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="513,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn17_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="593,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="673,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="753,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy11" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="753,113,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy12" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="753,193,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy13" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="753,273,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy17" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="753,353,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy18" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="753,433,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn10_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="33,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn11_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="113,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn12_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="193,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn13_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="273,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn14_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="353,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn15_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="433,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn16_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="513,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn17_Copy10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="593,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy21" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="673,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+            <Ellipse x:Name="btn18_Copy23" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="14" Margin="753,513,0,0" Stroke="Black" VerticalAlignment="Top" Width="14"/>
+        </Grid>
+        <Label x:Name="label" Content="Player 1:" HorizontalAlignment="Left" Margin="199,0,0,0" VerticalAlignment="Top" Height="38" Width="85" FontSize="18" FontWeight="Bold" Foreground="Blue"/>
+        <Label x:Name="label1" Content="Player 2:" HorizontalAlignment="Left" Margin="519,0,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Foreground="Red"/>
+        <Label x:Name="p1s" Content="0" HorizontalAlignment="Left" Margin="284,0,0,0" VerticalAlignment="Top" Height="38" Width="85" FontSize="18" FontWeight="Bold" Foreground="Blue"/>
+        <Label x:Name="p2s" Content="0" HorizontalAlignment="Left" Margin="606,0,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Foreground="Red"/>
+
+    </Grid>
+</Window>
